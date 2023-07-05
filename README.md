@@ -1,5 +1,13 @@
 # Weekly-Challenges
+
 Weekly (now yearly) challenges between me and friends
+
+# Challenge 1 is currently underway! 
+
+Concept: TBA
+Language: TBA
+Date: TBA
+
 
 # How does this work?
 
