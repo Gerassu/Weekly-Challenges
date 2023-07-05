@@ -2,21 +2,21 @@
 
 Weekly (now yearly) challenges between me and friends
 
-# Challenge 1 is currently underway! 
+## Challenge 1 is currently underway! 
 
 Concept: TBA
 Language: TBA
 Date: TBA
 
 
-# How does this work?
+## How does this work?
 
   Each Week a Random Programming (and non) Language gets picked.
  
   Along with the language a general concept (3 words or less) gets picked.
  
 
-# Rules
+## Rules
 
   As long as the Main file is the required language the project counts.
   The Project must strictly follow the Concept given
